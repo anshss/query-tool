@@ -1,8 +1,7 @@
 ### Getting Started
 
-Add rqst_id's to raw.txt and run below, this will write a new query.txt
+Add rqst_id's to raw.txt and run below command, this will write a new query.txt with gcp's query
 
 ```js
-node merger
-node query
+npm run tool
 ```
